@@ -16,6 +16,20 @@ Offsets can be obtained from [Netvars](../hack/netvars.md) table.
 | void | SetPropFloat | (int iOffset, float flNew) | - |
 | void | SetPropBool | (int iOffset, bool bNew) | - |
 
+## Static functions
+
+| Return | Name | Args | Description |
+| :--- | :--- | :--- | :--- |
+| [CBaseEntity](../classes/cbaseentity.md)* | GetLocalPlayer | () | - |
+
+Example code:
+
+```lua
+local localPlayer = CBaseEntity.GetLocalPlayer()
+
+local velocity = localPlayer:GetVelocity()
+```
+
 ## Functions
 
 | Return | Name | Args | Description |
