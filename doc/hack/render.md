@@ -6,8 +6,8 @@ Fonts by default has size 32, downscale will look fine, but sizes over 32 will b
 
 | Return | Name | Args | Description |
 | :--- | :--- | :--- | :--- |
-| void* | GetRobotoFont | () | - |
-| void* | GetRobotoMediumFont | () | - |
+| void* | GetMainFont | () | - |
+| void* | GetMainMediumFont | () | - |
 | void* | GetIconsFont | () | - |
 | Vector2D | CalcTextSize | (void* pFont, float flSize, string szText) | - |
 | bool | WorldToScreen | (Vector vecPosition, OUT Vector2D& vecScreen) | - |
