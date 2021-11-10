@@ -20,6 +20,7 @@ Modules:
 * [EntityList](doc/interfaces/entitylist.md)
 * [GlobalVars](doc/interfaces/globalvars.md)
 * [ClientState](doc/interfaces/clientstate.md)
+* [Surface](doc/interfaces/surface.md)
 
 ### Hack tables and fields
 
@@ -66,3 +67,7 @@ Modules:
 * [EFlow](doc/enums/eflow.md) - values, describe netchannel flow
 * [ESliderFlags](doc/enums/esliderflags.md) - flags, describe slider settings
 * [EColorEditFlags](doc/enums/ecoloreditflags.md) - flags, describe coloredit settings
+
+## Examples
+
+* [movement-indicators](https://github.com/k1nd0f/movement-indicators) - kind0f
