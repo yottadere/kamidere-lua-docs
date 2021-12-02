@@ -7,3 +7,5 @@
 | void | SetClantag | (string szTag) | - |
 | float | RandomFloat | (float flMinValue, float flMaxValue) | - |
 | int | RandomInt | (float iMinValue, float iMaxValue) | - |
+| void | ChatHackPrint | (string szText) | print with kamidere in begin |
+| void | ChatPrint | (string szText) | - |
