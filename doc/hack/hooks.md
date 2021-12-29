@@ -23,6 +23,7 @@
 | OnWeaponEspEnd | ([CBaseEntity](../classes/cbaseentity.md)* pEntity, [EspBounds](../datatypes/espbounds.md)* pBounds) | - |
 | OnGrenadeEsp | ([CBaseEntity](../classes/cbaseentity.md)* pEntity, [EspBounds](../datatypes/espbounds.md)* pBounds) | - |
 | OnGrenadeEspEnd | ([CBaseEntity](../classes/cbaseentity.md)* pEntity, [EspBounds](../datatypes/espbounds.md)* pBounds) | - |
-| OnGameEvent | ([IGameEvent](../classes/igameevent.md)* pEvent) | - |
+| OnGameEvent | ([IGameEvent](../classes/igameevent.md)* pEvent) | hack event listener |
+| OnFireEvent | ([IGameEvent](../classes/igameevent.md)* pEvent) | default csgo event listener |
 | OnOverrideView | - | - |
 | OnDoPostScreenEffects | - | - |

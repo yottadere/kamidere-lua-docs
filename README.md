@@ -13,6 +13,11 @@ Modules:
 * [string](https://www.lua.org/manual/5.1/manual.html#5.4) - strings manipulation
 * [math](https://www.lua.org/manual/5.1/manual.html#5.6) - built-in mathematic functions
 
+### Examples
+
+* [movement-indicators](https://github.com/k1nd0f/movement-indicators) - kind0f
+* [morgen-soundpack](https://github.com/yottadere/morgen-soundpack) - me
+
 ### Source interfaces and fields
 
 * [Engine](doc/interfaces/engine.md)
@@ -21,6 +26,7 @@ Modules:
 * [GlobalVars](doc/interfaces/globalvars.md)
 * [ClientState](doc/interfaces/clientstate.md)
 * [Surface](doc/interfaces/surface.md)
+* [Panorama](doc/interfaces/panorama.md)
 
 ### Hack tables and fields
 
@@ -68,6 +74,3 @@ Modules:
 * [ESliderFlags](doc/enums/esliderflags.md) - flags, describe slider settings
 * [EColorEditFlags](doc/enums/ecoloreditflags.md) - flags, describe coloredit settings
 
-## Examples
-
-* [movement-indicators](https://github.com/k1nd0f/movement-indicators) - kind0f

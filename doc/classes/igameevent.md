@@ -4,7 +4,7 @@
 
 | Return | Name | Args | Description |
 | :--- | :--- | :--- | :--- |
-| string | GetName | (string szKeyName) | - |
+| string | GetName | () | - |
 | bool | GetBool | (string szKeyName) | - |
 | int | GetInt | (string szKeyName) | - |
 | uint64 | GetUint64 | (string szKeyName) | - |
